@@ -1,0 +1,16 @@
+# pycache
+__pycache__/
+
+# TamaTou意外のソースフォントは除外する
+*.otf
+*.ttf
+*.sfd
+!/src/TamaTou-*.otf
+!/src/TamaTou-*.ttf
+
+# srcに生成されたビットマップフォントは除外する
+/src/*.fnt
+/src/*.png
+
+# 一時テスト用のファイルは除外する
+/src/test.bmfc
