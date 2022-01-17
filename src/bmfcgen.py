@@ -50,27 +50,27 @@ class BmfGenConf(BMFC):
 
 bmf_config = [
     BmfGenConf(outputfile='TamaTou12', fontName='TamaTou', fontFile='TamaTou-Regular.otf',
-               fontSize=-12, aa=1, useSmoothing=1,
+               fontSize=-12, aa=1, renderFromOutline=0,
                outWidth=2048, outHeight=2048, nameInStarsector=['orbitron12condensed']),
 
     BmfGenConf(outputfile='TamaTou20aa', fontName='TamaTou', fontFile='TamaTou-Regular.otf',
-               fontSize=20, aa=4,
+               fontSize=20, aa=4, renderFromOutline=0,
                outWidth=2048, outHeight=2048, nameInStarsector=['orbitron20aa']),
 
     BmfGenConf(outputfile='TamaTou20aabold', fontName='TamaTou', fontFile='TamaTou-Bold.otf',
-               fontSize=20, aa=4,
-               outWidth=2048, outHeight=2048, nameInStarsector=['orbitron20aabold']),
+               fontSize=20, aa=4, renderFromOutline=0,
+               outWidth=4096, outHeight=2048, nameInStarsector=['orbitron20aabold']),
 
     BmfGenConf(outputfile='TamaTou20bold', fontName='TamaTou', fontFile='TamaTou-Bold.otf',
-               fontSize=20, aa=1,
-               outWidth=2048, outHeight=2048, nameInStarsector=['orbitron20bold']),
+               fontSize=20, aa=1, renderFromOutline=0,
+               outWidth=4096, outHeight=2048, nameInStarsector=['orbitron20bold']),
 
     BmfGenConf(outputfile='TamaTou24aa', fontName='TamaTou', fontFile='TamaTou-Regular.otf',
-               fontSize=24, aa=4,
+               fontSize=24, aa=4, renderFromOutline=0,
                outWidth=4096, outHeight=2048, nameInStarsector=['orbitron24aa']),
 
     BmfGenConf(outputfile='TamaTou24aabold', fontName='TamaTou', fontFile='TamaTou-Bold.otf',
-               fontSize=24, aa=4,
+               fontSize=24, aa=4, renderFromOutline=0,
                outWidth=4096, outHeight=2048, nameInStarsector=['orbitron24aabold']),
 ]
 
