@@ -1,15 +1,15 @@
 # License
 
-Copyright (c) 2022, Hiroshi Miura (https://github.com/hirmiura)
+Copyright (c) 2022, Hiroshi Miura <https://github.com/hirmiura>
 with Reserved Font Name TamaTou.
 
 These font softwares are licensed under the [SIL Open Font License].
 
--   Products font
-    -   TamaTou
--   Source fonts
-    -   Orbitron
-    -   Noto Sans JP
+- Products font
+  - TamaTou
+- Source fonts
+  - Orbitron
+  - Noto Sans JP
 
 Other scripts and codes are licensed under the [MIT License].
 
