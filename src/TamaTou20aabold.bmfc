@@ -17,7 +17,7 @@ disableBoxChars=1
 outputInvalidCharGlyph=0
 dontIncludeKerningPairs=0
 useHinting=1
-renderFromOutline=1
+renderFromOutline=0
 useClearType=1
 autoFitNumPages=0
 autoFitFontSizeMin=0
@@ -35,7 +35,7 @@ forceZero=0
 widthPaddingFactor=0.0
 
 # output file
-outWidth=2048
+outWidth=4096
 outHeight=2048
 outBitDepth=32
 fontDescFormat=0
