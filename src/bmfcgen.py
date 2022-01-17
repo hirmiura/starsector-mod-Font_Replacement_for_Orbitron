@@ -99,7 +99,7 @@ def generate_font():
         print('==>' + conf.fnt_file, flush=True)
         com = [BMFONT_EXE, '-c', conf.bmfc_file, '-o', conf.fnt_file]
         subprocess.run(com, shell=True)
-    print(f'{count} ファイル生成完了', flush=True)
+    print(f'{count} フォント生成完了', flush=True)
 
 
 def install():
