@@ -1,4 +1,4 @@
-# Font TamaTou for Orbitron
+# Font Replacement for Orbitron
 
 [Starsector] で使用されている [Orbitron] フォントの置き換えを目的とした Mod です。
 
@@ -7,7 +7,7 @@
 
 ## 姉妹品
 
-[Font Sika for Insignia](https://github.com/hirmiura/starsector-mod-Font_Sika_for_Insignia)
+[Font Replacement for Insignia](https://github.com/hirmiura/starsector-mod-Font_Replacement_for_Insignia)
 
 [starsector]: https://fractalsoftworks.com/
 [orbitron]: https://github.com/theleagueof/orbitron

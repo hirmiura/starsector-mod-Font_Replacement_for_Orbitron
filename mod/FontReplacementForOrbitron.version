@@ -1,0 +1,9 @@
+{
+    "masterVersionFile": "https://raw.githubusercontent.com/hirmiura/starsector-mod-Font_Replacement_for_Orbitron/main/mod/FontReplacementForOrbitron.version",
+    "modName": "zja Font Replacement for Orbitron",
+    "modVersion": {
+        "major": 0,
+        "minor": 3,
+        "patch": 0
+    }
+}
