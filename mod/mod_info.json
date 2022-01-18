@@ -1,8 +1,8 @@
 {
-    "id": "FontTamaTouForOrbitron",
-    "name": "zja Font TamaTou for Orbitron",
+    "id": "FontReplacementForOrbitron",
+    "name": "zja Font Replacement for Orbitron",
     "author": "hirmiura",
-    "version": "0.2.0",
-    "description": "TamaTou is combined with Orbitron and Noto Sans JP.",
+    "version": "0.3.0",
+    "description": "Font replacement Orbitron with TamaTou. TamaTou is combined with Orbitron and Noto Sans JP.",
     "gameVersion": "0.95.1a-RC6"
 }

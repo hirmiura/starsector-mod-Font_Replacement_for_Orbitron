@@ -8,4 +8,4 @@
 
 - 初版
 
-[0.2.0]: https://github.com/hirmiura/starsector-mod-Font_TamaTou_for_Orbitron/compare/0.1.0...0.2.0
+[0.2.0]: https://github.com/hirmiura/starsector-mod-Font_Replacement_for_Orbitron/compare/0.1.0...0.2.0
