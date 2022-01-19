@@ -1,0 +1,54 @@
+{
+    // 全体に反映するテンプレート
+    "template": "bmfc_template.txt",
+    "config": [
+        {
+            "outputfile": "TamaTou12cond",
+            "fontFile": "TamaTou-Regular.otf",
+            "fontSize": -12,
+            "aa": 1,
+            "outWidth": 2048,
+            "outHeight": 2048
+        },
+        {
+            "outputfile": "TamaTou20aa",
+            "fontFile": "TamaTou-Regular.otf",
+            "fontSize": 20,
+            "aa": 4,
+            "outWidth": 2048,
+            "outHeight": 2048
+        },
+        {
+            "outputfile": "TamaTou20aab",
+            "fontFile": "TamaTou-Bold.otf",
+            "fontSize": 20,
+            "aa": 4,
+            "outWidth": 4096,
+            "outHeight": 2048
+        },
+        {
+            "outputfile": "TamaTou20b",
+            "fontFile": "TamaTou-Bold.otf",
+            "fontSize": 20,
+            "aa": 1,
+            "outWidth": 4096,
+            "outHeight": 2048
+        },
+        {
+            "outputfile": "TamaTou24aa",
+            "fontFile": "TamaTou-Regular.otf",
+            "fontSize": 24,
+            "aa": 4,
+            "outWidth": 4096,
+            "outHeight": 2048
+        },
+        {
+            "outputfile": "TamaTou24aab",
+            "fontFile": "TamaTou-Bold.otf",
+            "fontSize": 24,
+            "aa": 4,
+            "outWidth": 4096,
+            "outHeight": 2048
+        }
+    ]
+}
