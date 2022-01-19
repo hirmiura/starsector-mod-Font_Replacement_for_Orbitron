@@ -8,9 +8,9 @@ __pycache__/
 !/src/TamaTou-*.otf
 !/src/TamaTou-*.ttf
 
+# bmfcファイルは除外する
+*.bmfc
+
 # srcに生成されたビットマップフォントは除外する
 /src/*.fnt
 /src/*.png
-
-# 一時テスト用のファイルは除外する
-/src/test.bmfc
